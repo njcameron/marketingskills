@@ -11,6 +11,7 @@ Current versions of all skills. Agents can compare against local versions to che
 | churn-prevention | 1.2.0 | 2026-03-14 |
 | cold-email | 1.2.0 | 2026-03-14 |
 | competitor-alternatives | 1.2.0 | 2026-03-14 |
+| competitor-profiling | 1.0.0 | 2026-04-07 |
 | content-strategy | 1.2.0 | 2026-03-14 |
 | copy-editing | 1.2.0 | 2026-03-14 |
 | copywriting | 1.2.0 | 2026-03-14 |
